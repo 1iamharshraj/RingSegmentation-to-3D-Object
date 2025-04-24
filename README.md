@@ -53,7 +53,7 @@ Once the Mask R-CNN model is trained, use the `RingFrameExtraction.ipynb` notebo
 
 - Read video files: [link of sample video](https://drive.google.com/file/d/1DrobI9aun48xQ6sAGBH2jxLHjm2ASFV-/view?usp=drive_link)
 - Extract frames at specified intervals.
-- Save extracted frames as images for further processing.[generated images](https://drive.google.com/drive/folders/1FGjOaJkgJbyncHMtRdLx4ucc2svufGZw?usp=drive_link)
+- Save extracted frames as images for further processing. [generated images](https://drive.google.com/drive/folders/1FGjOaJkgJbyncHMtRdLx4ucc2svufGZw?usp=drive_link)
 
 ### Step 3: Generate 3D Models
 
