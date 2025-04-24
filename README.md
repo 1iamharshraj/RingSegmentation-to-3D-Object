@@ -45,15 +45,15 @@ The first step is to train the **Mask R-CNN** model for ring segmentation. Use t
 
 - Loading and processing the dataset.
 - Training the Mask R-CNN model on the ring segmentation task.
-- Saving the trained model for future inference.
+- Saving the trained model for future inference. [Link for trainned model](https://drive.google.com/drive/folders/1o9ueta73Bnf_ahY7Bu1DnabO1RIOezHK?usp=drive_link)
 
 ### Step 2: Extract Frames from Videos
 
 Once the Mask R-CNN model is trained, use the `RingFrameExtraction.ipynb` notebook to extract frames from a video file. This notebook will:
 
-- Read video files.
+- Read video files: [link of sample video](https://drive.google.com/file/d/1DrobI9aun48xQ6sAGBH2jxLHjm2ASFV-/view?usp=drive_link)
 - Extract frames at specified intervals.
-- Save extracted frames as images for further processing.
+- Save extracted frames as images for further processing.[generated images](https://drive.google.com/drive/folders/1FGjOaJkgJbyncHMtRdLx4ucc2svufGZw?usp=drive_link)
 
 ### Step 3: Generate 3D Models
 
